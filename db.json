@@ -1,8 +1,8 @@
 {
   "seatdetails": [
-    { "date": 20-11-2020, "managerId": "A050982", "seatNumber" : "2A143", "isBooked" : false },
-    { "date": 20-11-2020, "managerId": "A050982", "seatNumber" : "2A143", "isBooked" : false },
-    { "date": 20-11-2020, "managerId": "A050982", "seatNumber" : "2A143", "isBooked" : true }
+    { "date": "20-11-2020", "managerId": "A050982", "seatNumber" : "2A143", "isBooked" : "false" },
+    { "date": "20-11-2020", "managerId": "A050982", "seatNumber" : "2A143", "isBooked" : "false" },
+    { "date": "20-11-2020", "managerId": "A050982", "seatNumber" : "2A143", "isBooked" : "true" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
