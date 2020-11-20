@@ -36,8 +36,7 @@
     "SeatNumber" : "2A148",
     "IsBooked" : true
   }
-]
-  ],
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
