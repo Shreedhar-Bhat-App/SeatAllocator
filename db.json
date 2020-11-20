@@ -1,38 +1,14 @@
-[
-  {
-    "Date": 20-11-2020,
-    "ManagerId": "A050982",
-    "SeatNumber" : "2A143",
-    "IsBooked" : false
-  },
-  {
-    "Date": 20-11-2020,
-    "ManagerId": "A050982",
-    "SeatNumber" : "2A144",
-    "IsBooked" : true
-  },
-  {
-    "Date": 20-11-2020,
-    "ManagerId": "A050982",
-    "SeatNumber" : "2A145",
-    "IsBooked" : false
-  },
-  {
-    "Date": 20-11-2020,
-    "ManagerId": "A050982",
-    "SeatNumber" : "2A146",
-    "IsBooked" : false
-  },
-  {
-    "Date": 20-11-2020,
-    "ManagerId": "A050982",
-    "SeatNumber" : "2A147",
-    "IsBooked" : false
-  },
-  {
-    "Date": 20-11-2020,
-    "ManagerId": "A050982",
-    "SeatNumber" : "2A148",
-    "IsBooked" : true
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
